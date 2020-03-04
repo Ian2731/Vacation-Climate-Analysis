@@ -13,5 +13,3 @@ Station Analysis:
   -Designing a query to calculate the total number of stations
   -Design a query to find the most active stations
   -Design a query to retrieve the last 12 months of temperature observation data (tobs)
-
-Climate App
