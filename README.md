@@ -9,3 +9,6 @@ Precipitation Analysis:
   -Plot the results using the DataFrame plot method
 
 Station Analysis:
+  
+  -Designing a query to calculate the total number of stations
+  -
