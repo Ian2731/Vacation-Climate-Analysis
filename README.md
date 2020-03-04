@@ -7,3 +7,5 @@ Precipitation Analysis:
   -Load the query results into a Pandas DataFrame and set the index to the date column
   -Sort the DataFrame values by date
   -Plot the results using the DataFrame plot method
+
+Station Analysis:
