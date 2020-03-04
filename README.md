@@ -15,5 +15,3 @@ Station Analysis:
   -Design a query to retrieve the last 12 months of temperature observation data (tobs)
 
 Climate App
-
-  
